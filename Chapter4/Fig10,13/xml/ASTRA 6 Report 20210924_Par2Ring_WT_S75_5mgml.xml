@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<experiment xmlns="http://www.wyatt.com/schemas/ExperimentReport">
+  <name>20210924_Par2Ring_WT_S75_test</name>
+  <settings>
+    <setting>
+      <name>File Name</name>
+      <value>C:\Users\AKTA\Documents\MALS data\DaveB\20210924_Par2Ring_WT_S75_test.afe6</value>
+    </setting>
+    <setting>
+      <name>Collection Version</name>
+      <value>6.1.7.17</value>
+    </setting>
+    <setting>
+      <name>Printing Operator</name>
+      <value>7XKQ6X1\AKTA (AKTA)</value>
+    </setting>
+    <setting>
+      <name>Collection Operator</name>
+      <value>7XKQ6X1\AKTA (7XKQ6X1\AKTA (AKTA))</value>
+    </setting>
+    <setting>
+      <name>Processing Operator</name>
+      <value>7XKQ6X1\AKTA (AKTA)</value>
+    </setting>
+  </settings>
+  <settings>
+    <name>File Properties</name>
+    <setting>
+      <name>Created</name>
+      <value>April 2, 2013 13:36:44.159</value>
+    </setting>
+    <setting>
+      <name>Modified</name>
+      <value>April 2, 2013 13:36:44.159</value>
+    </setting>
+    <setting>
+      <name>Title</name>
+      <value> Online Analysis</value>
+    </setting>
+    <setting>
+      <name>Subject</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Description</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Comments</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Category</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Rating</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Company</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Author</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Manager</name>
+      <value></value>
+    </setting>
+    <setting>
+      <name>Name</name>
+      <value>20210924_Par2Ring_WT_S75_test.afe6</value>
+    </setting>
+    <setting>
+      <name>Directory</name>
+      <value>C:\Users\AKTA\Documents\MALS data\DaveB\</value>
+    </setting>
+    <setting>
+      <name>ODBC Data Source</name>
+      <value>n/a</value>
+    </setting>
+    <setting>
+      <name>ODBC User Name</name>
+      <value>n/a</value>
+    </setting>
+    <setting>
+      <name>Database DBMS</name>
+      <value>n/a</value>
+    </setting>
+    <setting>
+      <name>Database Host</name>
+      <value>n/a</value>
+    </setting>
+    <setting>
+      <name>Database Name</name>
+      <value>n/a</value>
+    </setting>
+    <setting>
+      <name>Database Path</name>
+      <value>n/a</value>
+    </setting>
+  </settings>
+  <graphs>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="EFA39A8F-18AA-482F-8638-64BA2B37AB69" graph_id="0">
+      <name>Basic Collection template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="8BAB3D52-638D-4327-AEEB-FDEB9F334A2D" graph_id="0">
+      <name>Despiking Procedure template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="028769CF-9592-420E-9126-AD4C9AADB91A" graph_id="0">
+      <name>Define Baselines template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="C1C6BFCC-D171-4EEC-A3B1-45D66438B4B0" graph_id="0">
+      <name>Alignment template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="62579940-48D5-4933-9263-B0C9CAD7A1DD" graph_id="0">
+      <name>Band Broadening template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="3B20FAD5-5ABA-461B-91E4-7C33F97F5990" graph_id="0">
+      <name>Define Peaks template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="415E4060-6238-4882-98B1-AF323FC737C5" graph_id="0">
+      <name>Molar Mass &amp; Radius from LS template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="D700646D-9959-4E3A-A9EE-2513C602E7FD" graph_id="0">
+      <name>Results fitting : Molar Mass</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="D700646D-9959-4E3A-A9EE-2513C602E7FD" graph_id="1">
+      <name>Results fitting : rms radius</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="D700646D-9959-4E3A-A9EE-2513C602E7FD" graph_id="2">
+      <name>Results fitting : mean square radius</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" procedure_id="3B7EB0D0-824E-4881-8BBB-2C9C3EB7A1C6" graph_id="0">
+      <name>Distribution Analysis template</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" template_id="B63956BE-E616-4956-BD71-0A139D06EC3F">
+      <name>molar mass vs volume</name>
+    </graph>
+    <graph experiment_id="4CAB1CD9-B7EA-40C7-9AA6-4A0584D2159E" template_id="5A854516-2FA6-4F59-944F-0167C0E3FF87">
+      <name>Graph 1</name>
+    </graph>
+  </graphs>
+  <configuration>
+    <name>Crick 26 Feb 2021</name>
+    <description></description>
+    <note></note>
+    <settings>
+      <setting>
+        <name>Abscissa Units</name>
+        <value>min</value>
+      </setting>
+      <setting>
+        <name>Concentration Source</name>
+        <value>RI</value>
+      </setting>
+      <setting>
+        <name>Flow Rate</name>
+        <scalar units="mL/min">5.000000000e-001</scalar>
+      </setting>
+    </settings>
+    <solvent>
+      <name>water</name>
+      <description>System solvent</description>
+      <settings>
+        <setting>
+          <name>Reference Refractive Index</name>
+          <scalar>0.000000000e+000</scalar>
+        </setting>
+        <setting>
+          <name>Temperature Correction Enabled</name>
+          <value>yes</value>
+        </setting>
+        <setting>
+          <name>Reference Temperature</name>
+          <scalar units="°C">0.000000000e+000</scalar>
+        </setting>
+        <setting>
+          <name>Reference Wavelength</name>
+          <scalar units="nm">0.000000000e+000</scalar>
+        </setting>
+        <setting>
+          <name>Refractive Index</name>
+          <scalar>1.330182739e+000</scalar>
+        </setting>
+        <setting>
+          <name>Rayleigh Ratio</name>
+          <scalar units="1/cm">7.387887672e-007</scalar>
+        </setting>
+        <setting>
+          <name>Viscosity</name>
+          <scalar units="cP">8.945000000e-001</scalar>
+        </setting>
+      </settings>
+      <settings>
+        <name>Refractive Index Model</name>
+        <setting>
+          <name>Model Name</name>
+          <value>Polynomial</value>
+        </setting>
+        <setting>
+          <name>Equation</name>
+          <value>N(λ) = 1.3206 + 0.00823839 λ² - 0.00140587 λ^4 + 0.00011739- 0.000106 * 25</value>
+        </setting>
+      </settings>
+      <settings>
+        <name>Rayleigh Ratio Model</name>
+        <setting>
+          <name>Model Name</name>
+          <value>Corrected Lambda^4</value>
+        </setting>
+        <setting>
+          <name>Equation</name>
+          <value>R(λ, T) = 9e-007 * (632.8/λ)^4 * (N(λ)/N(632.8))²[(N(λ) - 1)/(N(632.8) - 1)]²</value>
+        </setting>
+      </settings>
+      <settings>
+        <name>Viscosity Model</name>
+        <setting>
+          <name>Model Name</name>
+          <value>Linear</value>
+        </setting>
+        <setting>
+          <name>Equation</name>
+          <value>η(T) = 0.008945 + -0.000195 * (T - 25)</value>
+        </setting>
+      </settings>
+      <settings>
+        <name>Thermal Expansion Model</name>
+        <setting>
+          <name>Model Name</name>
+          <value>Polynomial</value>
+        </setting>
+        <setting>
+          <name>Equation</name>
+          <value>α(T) = (-65.397 + 16.395 T - 0.15865 T² + 0.0008051 T³) * 1.0e-6</value>
+        </setting>
+      </settings>
+    </solvent>
+    <instruments>
+      <instrument type="injector">
+        <name>injector</name>
+        <description></description>
+        <settings>
+          <setting>
+            <name>Injected Volume</name>
+            <scalar units="µL">1.000000000e+002</scalar>
+          </setting>
+          <setting>
+            <name>Auto Inject Signal</name>
+            <value>no</value>
+          </setting>
+        </settings>
+      </instrument>
+      <instrument type="uv">
+        <name>generic UV</name>
+        <description></description>
+        <settings>
+          <setting>
+            <name>Temperature Control</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Band Broadening Correction</name>
+            <value>Yes  (Instrumental: 20.369 μL, Mixing: 78.070 μL, Mixing2: 0.000 μL, Relative Amplitude: 0.100)</value>
+          </setting>
+          <setting>
+            <name>Disable Data Collection</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Batch Mode</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>UV Cell Length</name>
+            <scalar units="cm">1.000000000e+000</scalar>
+          </setting>
+          <setting>
+            <name>Active Cell</name>
+            <value>3</value>
+          </setting>
+          <setting>
+            <name>UV Response Factor</name>
+            <scalar units="AU/V">1.000000000e+000</scalar>
+          </setting>
+        </settings>
+        <uv_detectors>
+          <uv_detector>
+            <number>1</number>
+            <wavelength>280.0</wavelength>
+          </uv_detector>
+          <uv_detector>
+            <number>2</number>
+            <wavelength>254.0</wavelength>
+          </uv_detector>
+          <uv_detector active="true">
+            <number>3</number>
+            <wavelength>214.0</wavelength>
+          </uv_detector>
+          <uv_detector>
+            <number>4</number>
+            <wavelength>0.0</wavelength>
+          </uv_detector>
+        </uv_detectors>
+      </instrument>
+      <instrument type="ls">
+        <name>HELEOS 8</name>
+        <description></description>
+        <settings>
+          <setting>
+            <name>Firmware Version</name>
+            <value>2.6.2.4</value>
+          </setting>
+          <setting>
+            <name>Temperature Control</name>
+            <value>yes</value>
+          </setting>
+          <setting>
+            <name>Temperature</name>
+            <scalar units="°C">2.500000000e+001</scalar>
+          </setting>
+          <setting>
+            <name>Band Broadening Correction</name>
+            <value>Yes  (Instrumental: 2.143 μL, Mixing: 38.303 μL, Mixing2: 0.000 μL, Relative Amplitude: 0.100)</value>
+          </setting>
+          <setting>
+            <name>Disable Data Collection</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Physical Instrument Name</name>
+            <value>DAWN HELEOS 8</value>
+          </setting>
+          <setting>
+            <name>Physical Instrument Location</name>
+            <value>WYATT-804-H28</value>
+          </setting>
+          <setting>
+            <name>Batch Mode</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Cell Type</name>
+            <value>K5</value>
+          </setting>
+          <setting>
+            <name>Wavelength</name>
+            <scalar units="nm">6.638000000e+002</scalar>
+          </setting>
+          <setting>
+            <name>Calibration Constant</name>
+            <scalar units="1/(V cm)">3.068300000e-005</scalar>
+          </setting>
+          <setting>
+            <name>Comet Cell Cleaner</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Divide raw LS signal by laser monitor</name>
+            <value>yes</value>
+          </setting>
+          <setting>
+            <name>Divide raw LS signal by forward laser monitor</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>QELS Fiber Replaces Detector</name>
+            <value>5 (90.0°)</value>
+          </setting>
+          <setting>
+            <name>Polarization Option</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Temperature Controlled Line</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Heated Line Temperature</name>
+            <scalar units="°C">0.000000000e+000</scalar>
+          </setting>
+          <setting>
+            <name>QELS Enabled</name>
+            <value>no</value>
+          </setting>
+        </settings>
+        <detectors>
+          <detector>
+            <number>1</number>
+            <angle>14.4</angle>
+            <norm_coeff>0.586</norm_coeff>
+          </detector>
+          <detector>
+            <number>2</number>
+            <angle>34.7</angle>
+            <norm_coeff>1.654</norm_coeff>
+          </detector>
+          <detector>
+            <number>3</number>
+            <angle>51.5</angle>
+            <norm_coeff>0.713</norm_coeff>
+          </detector>
+          <detector>
+            <number>4</number>
+            <angle>69.3</angle>
+            <norm_coeff>0.800</norm_coeff>
+          </detector>
+          <detector>
+            <number>5</number>
+            <angle>90.0</angle>
+            <norm_coeff>1.000</norm_coeff>
+          </detector>
+          <detector>
+            <number>6</number>
+            <angle>110.7</angle>
+            <norm_coeff>0.900</norm_coeff>
+          </detector>
+          <detector>
+            <number>7</number>
+            <angle>132.2</angle>
+            <norm_coeff>0.807</norm_coeff>
+          </detector>
+          <detector>
+            <number>8</number>
+            <angle>152.6</angle>
+            <norm_coeff>2.294</norm_coeff>
+          </detector>
+        </detectors>
+      </instrument>
+      <instrument type="ri">
+        <name>Optilab rEX</name>
+        <description></description>
+        <settings>
+          <setting>
+            <name>Firmware Version</name>
+            <value>Not reported by instrument</value>
+          </setting>
+          <setting>
+            <name>Temperature Control</name>
+            <value>yes</value>
+          </setting>
+          <setting>
+            <name>Temperature</name>
+            <scalar units="°C">2.500000000e+001</scalar>
+          </setting>
+          <setting>
+            <name>Band Broadening Correction</name>
+            <value>n/a</value>
+          </setting>
+          <setting>
+            <name>Disable Data Collection</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Physical Instrument Name</name>
+            <value>Optilab rEX</value>
+          </setting>
+          <setting>
+            <name>Physical Instrument Location</name>
+            <value>Wyatt-469-rEX</value>
+          </setting>
+          <setting>
+            <name>Batch Mode</name>
+            <value>no</value>
+          </setting>
+          <setting>
+            <name>Wavelength</name>
+            <scalar units="nm">6.580000000e+002</scalar>
+          </setting>
+          <setting>
+            <name>Calibration Constant</name>
+            <scalar units="RIU/pixel">3.418060078e-005</scalar>
+          </setting>
+        </settings>
+      </instrument>
+    </instruments>
+    <connections>
+      <fluid>
+        <name>pump to injector</name>
+        <description></description>
+        <source>Generic Pump</source>
+        <destination>Injector</destination>
+        <delay_volume>0.00000000</delay_volume>
+      </fluid>
+      <fluid>
+        <name>injector to UV</name>
+        <description></description>
+        <source>Injector</source>
+        <destination>Generic UV Instrument</destination>
+        <delay_volume>0.00000000</delay_volume>
+      </fluid>
+      <fluid>
+        <name>UV to LS</name>
+        <description></description>
+        <source>Generic UV Instrument</source>
+        <destination>DAWN HELEOS 8</destination>
+        <delay_volume>0.66496503</delay_volume>
+      </fluid>
+      <aux>
+        <name>UV to LS</name>
+        <description></description>
+        <source>Generic UV Instrument</source>
+        <destination>DAWN HELEOS 8</destination>
+        <channel>1</channel>
+        <calibration>1.00000000</calibration>
+      </aux>
+      <fluid>
+        <name>LS to RI</name>
+        <description></description>
+        <source>DAWN HELEOS 8</source>
+        <destination>Optilab rEX</destination>
+        <delay_volume>0.16578126</delay_volume>
+      </fluid>
+      <autoinject>
+        <name></name>
+        <description></description>
+        <source>autoinject</source>
+        <destination>Optilab rEX</destination>
+      </autoinject>
+    </connections>
+  </configuration>
+  <sample>
+    <name>Par2Ring_WT</name>
+    <description></description>
+    <settings>
+      <setting>
+        <name>dn/dc</name>
+        <scalar units="mL/g">1.850000000e-001</scalar>
+      </setting>
+      <setting>
+        <name>A2</name>
+        <scalar units="mol mL/g²">0.000000000e+000</scalar>
+      </setting>
+      <setting>
+        <name>UV Ext. Coef.</name>
+        <scalar units="mL/(mg cm)">0.000000000e+000</scalar>
+      </setting>
+      <setting>
+        <name>Mark-Houwink-Sakurada K</name>
+        <scalar units="mL/g">0.000000000e+000</scalar>
+      </setting>
+      <setting>
+        <name>Mark-Houwink-Sakurada a</name>
+        <value>0</value>
+      </setting>
+      <setting>
+        <name>Reference Wavelength</name>
+        <scalar units="nm">0.000000000e+000</scalar>
+      </setting>
+      <setting>
+        <name>Reference Temperature</name>
+        <scalar units="°C">2.500000000e+001</scalar>
+      </setting>
+      <setting>
+        <name>Concentration</name>
+        <scalar units="mg/mL">5.000000000e+000</scalar>
+      </setting>
+    </settings>
+  </sample>
+  <procedures>
+    <settings>
+      <setting>
+        <name>Collection Time</name>
+        <value>Friday March 08, 2013 11:40:35 AM GMT Daylight Time</value>
+      </setting>
+      <setting>
+        <name>Processing Time</name>
+        <value>Tuesday April 02, 2013 01:27:40 PM GMT Daylight Time
+</value>
+      </setting>
+      <setting>
+        <name>Despiking Level</name>
+        <value>Normal</value>
+      </setting>
+    </settings>
+    <procedure>
+      <name>Basic Collection</name>
+      <settings>
+        <setting>
+          <name>Collection Script File Name</name>
+          <value></value>
+        </setting>
+        <setting>
+          <name>Inject to Collect Delay</name>
+          <scalar units="min">0.000000000e+000</scalar>
+        </setting>
+        <setting>
+          <name>Collection Duration</name>
+          <scalar units="min">6.000000000e+001</scalar>
+        </setting>
+        <setting>
+          <name>LS Instrument Collection Interval</name>
+          <scalar units="sec">1.000000000e+000</scalar>
+        </setting>
+        <setting>
+          <name>QELS Instrument Collection Interval</name>
+          <scalar units="sec">2.000000000e+000</scalar>
+        </setting>
+        <setting>
+          <name>Wait for Auto-inject Signal</name>
+          <value>no</value>
+        </setting>
+      </settings>
+    </procedure>
+    <procedure>
+      <name>Define Baselines</name>
+      <settings>
+        <baselines>
+          <baseline>
+            <detector>detector 1</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.01887303</y1>
+            <x2>58.65160327</x2>
+            <y2>0.01846318</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>detector 2</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.00855126</y1>
+            <x2>58.65160327</x2>
+            <y2>0.00840678</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>detector 3</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.02413152</y1>
+            <x2>58.65160327</x2>
+            <y2>0.02380684</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>detector 4</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.02101183</y1>
+            <x2>58.65160327</x2>
+            <y2>0.02079596</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>detector 5</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.01826714</y1>
+            <x2>58.65160327</x2>
+            <y2>0.01812111</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>detector 6</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.02158341</y1>
+            <x2>58.65160327</x2>
+            <y2>0.02143846</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>detector 7</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.02500225</y1>
+            <x2>58.65160327</x2>
+            <y2>0.02486045</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>detector 8</detector>
+            <x1>-1.32993007</x1>
+            <y1>0.00914126</y1>
+            <x2>58.65160327</x2>
+            <y2>0.00909444</y2>
+            <type>auto x and y</type>
+          </baseline>
+          <baseline>
+            <detector>channel 1</detector>
+            <x1>5.29462559</x1>
+            <y1>0.11128180</y1>
+            <x2>57.01817717</x2>
+            <y2>0.11128604</y2>
+            <type>manual x, auto y</type>
+          </baseline>
+          <baseline>
+            <detector>channel 2</detector>
+            <x1>5.29462559</x1>
+            <y1>0.00000000</y1>
+            <x2>57.01817717</x2>
+            <y2>0.00000000</y2>
+            <type>manual x, auto y</type>
+          </baseline>
+          <baseline>
+            <detector>channel 3</detector>
+            <x1>5.29462559</x1>
+            <y1>0.00000000</y1>
+            <x2>57.01817717</x2>
+            <y2>0.00000000</y2>
+            <type>manual x, auto y</type>
+          </baseline>
+          <baseline>
+            <detector>differential refractive index data</detector>
+            <x1>-1.66149259</x1>
+            <y1>-0.00001987</y1>
+            <x2>58.32109075</x2>
+            <y2>-0.00001982</y2>
+            <type>auto x and y</type>
+          </baseline>
+        </baselines>
+      </settings>
+    </procedure>
+    <procedure>
+      <name>Band Broadening</name>
+      <settings>
+        <setting>
+          <name>Reference Instrument</name>
+          <value>Optilab rEX</value>
+        </setting>
+      </settings>
+    </procedure>
+    <procedure>
+      <name>Broaden</name>
+      <settings>
+        <setting>
+          <name>Band Broadening Algorithm</name>
+          <value>ASTRA 6</value>
+        </setting>
+      </settings>
+    </procedure>
+    <procedure>
+      <name>Define Peaks</name>
+      <settings>
+        <peaks count="1">
+          <peak_setting>
+            <name>Peak Name</name>
+            <value peak="1">Peak 1</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Start</name>
+            <scalar units="min" peak="1">2.243813532e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>End</name>
+            <scalar units="min" peak="1">2.288078155e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Light Scattering Model</name>
+            <value peak="1">Zimm</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Fit Degree</name>
+            <value peak="1">1</value>
+          </peak_setting>
+          <peak_setting>
+            <name>dn/dc</name>
+            <scalar units="mL/g" peak="1">1.850000000e-001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>dn/dc Ref. Temp.</name>
+            <scalar units="°C" peak="1">2.500000000e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Modifier dn/dc</name>
+            <scalar units="mL/g" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Modifier dn/dc Ref. Temp.</name>
+            <scalar units="°C" peak="1">2.500000000e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>A2</name>
+            <scalar units="mol mL/g²" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>UV Ext. Coef.</name>
+            <scalar units="mL/(mg cm)" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>UV Ext. Coef. Ref. Temp.</name>
+            <scalar units="°C" peak="1">2.500000000e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Modifier UV Ext. Coef.</name>
+            <scalar units="mL/(mg cm)" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Modifier UV Ext. Coef. Ref. Temp.</name>
+            <scalar units="°C" peak="1">2.500000000e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Real Refractive Index</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Imaginary Refractive Index</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Shell Thickness</name>
+            <scalar units="nm" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Shell Real Refractive Index</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Shell Imaginary Refractive Index</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Rod radius</name>
+            <scalar units="nm" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Molecular Standard</name>
+            <value peak="1">n/a</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Concentration</name>
+            <scalar units="mg/mL" peak="1">5.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Concentration Ref. Temp.</name>
+            <scalar units="°C" peak="1">2.500000000e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Injected Mass</name>
+            <scalar units="µg" peak="1">5.000000000e+002</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Molar Mass</name>
+            <scalar units="g/mol" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Intrinsic Viscosity</name>
+            <scalar units="mL/g" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Intrinsic Viscosity Ref. Temp.</name>
+            <scalar units="°C" peak="1">2.500000000e+001</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Mark-Houwink-Sakurada K</name>
+            <scalar units="mL/g" peak="1">0.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Mark-Houwink-Sakurada a</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Flory-Fox Equation Phi Parameter</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Ptitsyn-Eizner Equation Epsilon Parameter</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Viscometry Model</name>
+            <value peak="1">Huggins</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Huggins Equation Parameter</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Kraemers Equation Parameter</name>
+            <value peak="1">0</value>
+          </peak_setting>
+          <peak_setting>
+            <name>Radius</name>
+            <scalar units="nm" peak="1">3.000000000e+000</scalar>
+          </peak_setting>
+          <peak_setting>
+            <name>Radius Type</name>
+            <value peak="1">rms</value>
+          </peak_setting>
+        </peaks>
+      </settings>
+    </procedure>
+    <procedure>
+      <name>Normalization</name>
+      <settings>
+        <setting>
+          <name>Normalization Peak</name>
+          <value>1</value>
+        </setting>
+        <setting>
+          <name>Percent to Keep</name>
+          <scalar units="%">2.500000000e+001</scalar>
+        </setting>
+      </settings>
+    </procedure>
+    <procedure>
+      <settings>
+        <setting>
+          <name>Peak Name</name>
+          <value>Peak 1</value>
+        </setting>
+        <setting>
+          <name>Molar Mass</name>
+          <value>(1.183 ± 0.055) e+4 g/mol</value>
+        </setting>
+        <setting>
+          <name>rms radius</name>
+          <value>0.0 ± 0.0 nm</value>
+        </setting>
+        <setting>
+          <name>Light Scattering Model</name>
+          <value>Zimm</value>
+        </setting>
+        <setting>
+          <name>Fit Degree</name>
+          <value>1</value>
+        </setting>
+        <setting>
+          <name>Concentration</name>
+          <value>(5.391 ± 0.000) e-1 mg/mL</value>
+        </setting>
+        <setting>
+          <name>dn/dc</name>
+          <scalar units="mL/g">1.854117125e-001</scalar>
+        </setting>
+        <setting>
+          <name>Slice Index</name>
+          <value>1413</value>
+        </setting>
+        <setting>
+          <name>Abscissa Position</name>
+          <value>22.440 min</value>
+        </setting>
+        <setting>
+          <name>Fit R²</name>
+          <value>0.4603</value>
+        </setting>
+        <setting>
+          <name>Enabled Detectors</name>
+          <value>2 3 4 5 6 7 8</value>
+        </setting>
+      </settings>
+      <name>Molar Mass &amp; Radius from LS</name>
+    </procedure>
+    <procedure>
+      <name>Results Fitting Procedure</name>
+      <settings>
+        <fits/>
+      </settings>
+    </procedure>
+    <procedure/>
+  </procedures>
+  <results>
+    <result type="common">
+      <name>laser monitor average</name>
+      <scalar units="V">1.002178826e+000</scalar>
+    </result>
+    <result type="common">
+      <name>Forward Monitor Average</name>
+      <scalar units="V">9.473056409e-001</scalar>
+    </result>
+    <result type="common">
+      <name>laser current average</name>
+      <scalar units="amps">1.529087834e-001</scalar>
+    </result>
+    <result type="common">
+      <name>laser voltage average</name>
+      <scalar units="V">3.938886158e+000</scalar>
+    </result>
+    <result type="mass">
+      <name>Calculated Mass</name>
+      <scalar units="µg" peak="1">1.496550557e+002</scalar>
+    </result>
+    <result type="mass">
+      <name>Mass Recovery</name>
+      <scalar units="%" peak="1">2.993101113e+001</scalar>
+    </result>
+    <result type="mass">
+      <name>Mass Fraction</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Peak Area</name>
+      <scalar units="RIU min" peak="1">5.537238073e-005</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Peak Height</name>
+      <scalar units="RIU" peak="1">1.363158521e-004</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Retention Time</name>
+      <scalar units="min" peak="1">2.265389508e+001</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Peak Width at Half-Height</name>
+      <scalar units="min" peak="1">7.634756589e-001</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Peak Width at Quarter-Height</name>
+      <scalar units="min" peak="1">1.158931586e+000</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Peak Width at Tenth-Height</name>
+      <scalar units="min" peak="1">1.685090351e+000</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Peak Width at User-Specified-Height</name>
+      <scalar units="4.4%, min" peak="1">2.236230472e+000</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Asymmetry Factor</name>
+      <scalar peak="1">2.684396826e+000</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Tailing Factor</name>
+      <scalar peak="1">2.144859347e+000</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Mean</name>
+      <scalar units="min" peak="1">2.266402178e+001</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Standard Deviation</name>
+      <scalar units="min" peak="1">1.229732036e-001</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Skew</name>
+      <scalar peak="1">-2.527574281e-001</scalar>
+    </result>
+    <result type="refractive index">
+      <name>Peak Area %</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="molar mass">
+      <name>Mn</name>
+      <scalar units="g/mol" uncertainty="7.016181620e+002" peak="1">1.541415096e+004</scalar>
+    </result>
+    <result type="molar mass">
+      <name>Mp</name>
+      <scalar units="g/mol" uncertainty="7.173426919e+002" peak="1">1.574933774e+004</scalar>
+    </result>
+    <result type="molar mass">
+      <name>Mv</name>
+      <scalar units="g/mol" peak="1">n/a</scalar>
+    </result>
+    <result type="molar mass">
+      <name>Mw</name>
+      <scalar units="g/mol" uncertainty="7.079606723e+002" peak="1">1.557128821e+004</scalar>
+    </result>
+    <result type="molar mass">
+      <name>Mz</name>
+      <scalar units="g/mol" uncertainty="1.596982991e+003" peak="1">1.571469787e+004</scalar>
+    </result>
+    <result type="molar mass">
+      <name>Mz+1</name>
+      <scalar units="g/mol" uncertainty="2.573975189e+003" peak="1">1.584448551e+004</scalar>
+    </result>
+    <result type="polydispersity">
+      <name>Mw/Mn</name>
+      <scalar uncertainty="6.499096378e-002" peak="1">1.010194350e+000</scalar>
+    </result>
+    <result type="polydispersity">
+      <name>Mz/Mn</name>
+      <scalar uncertainty="1.135228914e-001" peak="1">1.019498116e+000</scalar>
+    </result>
+    <result type="molar mass">
+      <name>M(avg)</name>
+      <scalar units="g/mol" uncertainty="1.335775631e+002" peak="1">1.516317045e+004</scalar>
+    </result>
+    <result type="rms radius">
+      <name>Rn</name>
+      <scalar units="nm" peak="1">n/a</scalar>
+    </result>
+    <result type="rms radius">
+      <name>Std Dev Rn</name>
+      <scalar units="nm" peak="1">n/a</scalar>
+    </result>
+    <result type="rms radius">
+      <name>Rw</name>
+      <scalar units="nm" peak="1">n/a</scalar>
+    </result>
+    <result type="rms radius">
+      <name>Std Dev Rw</name>
+      <scalar units="nm" peak="1">n/a</scalar>
+    </result>
+    <result type="rms radius">
+      <name>Rz</name>
+      <scalar units="nm" peak="1">n/a</scalar>
+    </result>
+    <result type="rms radius">
+      <name>Std Dev Rz</name>
+      <scalar units="nm" peak="1">n/a</scalar>
+    </result>
+    <result type="rms radius">
+      <name>R(avg)</name>
+      <scalar units="nm" peak="1">n/a</scalar>
+    </result>
+    <result type="concentration">
+      <name>Average concentration</name>
+      <scalar units="mg/mL" uncertainty="2.081743337e-009" peak="1">6.772265638e-001</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 1)</name>
+      <scalar units="1/cm min" peak="1">3.053798054e-007</scalar>
+      <scalar units="V min" peak="1">7.990058588e-003</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 2)</name>
+      <scalar units="1/cm min" peak="1">7.507965551e-007</scalar>
+      <scalar units="V min" peak="1">6.960389869e-003</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 3)</name>
+      <scalar units="1/cm min" peak="1">9.783521834e-007</scalar>
+      <scalar units="V min" peak="1">2.105182475e-002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 4)</name>
+      <scalar units="1/cm min" peak="1">9.787220651e-007</scalar>
+      <scalar units="V min" peak="1">1.876127087e-002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 5)</name>
+      <scalar units="1/cm min" peak="1">1.078920065e-006</scalar>
+      <scalar units="V min" peak="1">1.654582332e-002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 6)</name>
+      <scalar units="1/cm min" peak="1">1.128710548e-006</scalar>
+      <scalar units="V min" peak="1">1.922444360e-002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 7)</name>
+      <scalar units="1/cm min" peak="1">1.130083826e-006</scalar>
+      <scalar units="V min" peak="1">2.147461434e-002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area (detector 8)</name>
+      <scalar units="1/cm min" peak="1">1.119693262e-006</scalar>
+      <scalar units="V min" peak="1">7.486484138e-003</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 1)</name>
+      <scalar units="1/cm" peak="1">7.648002674e-007</scalar>
+      <scalar units="V" peak="1">2.001041411e-002</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 2)</name>
+      <scalar units="1/cm" peak="1">1.882483604e-006</scalar>
+      <scalar units="V" peak="1">1.745182107e-002</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 3)</name>
+      <scalar units="1/cm" peak="1">2.454201791e-006</scalar>
+      <scalar units="V" peak="1">5.280842981e-002</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 4)</name>
+      <scalar units="1/cm" peak="1">2.456903928e-006</scalar>
+      <scalar units="V" peak="1">4.709658775e-002</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 5)</name>
+      <scalar units="1/cm" peak="1">2.709328144e-006</scalar>
+      <scalar units="V" peak="1">4.154885684e-002</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 6)</name>
+      <scalar units="1/cm" peak="1">2.835409490e-006</scalar>
+      <scalar units="V" peak="1">4.829312826e-002</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 7)</name>
+      <scalar units="1/cm" peak="1">2.841797109e-006</scalar>
+      <scalar units="V" peak="1">5.400153925e-002</scalar>
+    </result>
+    <result type="light scattering peak height">
+      <name>Peak Height (detector 8)</name>
+      <scalar units="1/cm" peak="1">2.816334518e-006</scalar>
+      <scalar units="V" peak="1">1.883048116e-002</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 1)</name>
+      <scalar units="min" peak="1">2.271826488e+001</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 2)</name>
+      <scalar units="min" peak="1">2.271395547e+001</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 3)</name>
+      <scalar units="min" peak="1">2.271425210e+001</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 4)</name>
+      <scalar units="min" peak="1">2.271369351e+001</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 5)</name>
+      <scalar units="min" peak="1">2.271342765e+001</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 6)</name>
+      <scalar units="min" peak="1">2.271358681e+001</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 7)</name>
+      <scalar units="min" peak="1">2.271456251e+001</scalar>
+    </result>
+    <result type="light scattering retention time">
+      <name>Retention Time (detector 8)</name>
+      <scalar units="min" peak="1">2.271473203e+001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 1)</name>
+      <scalar units="min" peak="1">7.260402604e-001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 2)</name>
+      <scalar units="min" peak="1">7.182894352e-001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 3)</name>
+      <scalar units="min" peak="1">7.181388353e-001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 4)</name>
+      <scalar units="min" peak="1">7.169850419e-001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 5)</name>
+      <scalar units="min" peak="1">7.165088402e-001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 6)</name>
+      <scalar units="min" peak="1">7.166672866e-001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 7)</name>
+      <scalar units="min" peak="1">7.177951429e-001</scalar>
+    </result>
+    <result type="light scattering peak width at half-height">
+      <name>Peak Width at Half-Height (detector 8)</name>
+      <scalar units="min" peak="1">7.167433936e-001</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 1)</name>
+      <scalar units="min" peak="1">1.079347534e+000</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 2)</name>
+      <scalar units="min" peak="1">1.073353112e+000</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 3)</name>
+      <scalar units="min" peak="1">1.072953050e+000</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 4)</name>
+      <scalar units="min" peak="1">1.071402225e+000</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 5)</name>
+      <scalar units="min" peak="1">1.070512255e+000</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 6)</name>
+      <scalar units="min" peak="1">1.069856719e+000</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 7)</name>
+      <scalar units="min" peak="1">1.071306371e+000</scalar>
+    </result>
+    <result type="light scattering peak width at quarter-height">
+      <name>Peak Width at Quarter-Height (detector 8)</name>
+      <scalar units="min" peak="1">1.070837433e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 1)</name>
+      <scalar units="min" peak="1">1.530885685e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 2)</name>
+      <scalar units="min" peak="1">1.523341876e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 3)</name>
+      <scalar units="min" peak="1">1.520489137e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 4)</name>
+      <scalar units="min" peak="1">1.516581318e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 5)</name>
+      <scalar units="min" peak="1">1.515120865e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 6)</name>
+      <scalar units="min" peak="1">1.514142966e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 7)</name>
+      <scalar units="min" peak="1">1.515899491e+000</scalar>
+    </result>
+    <result type="light scattering peak width at tenth-height">
+      <name>Peak Width at Tenth-Height (detector 8)</name>
+      <scalar units="min" peak="1">1.515065159e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 1)</name>
+      <scalar units="4.4%, min" peak="1">1.965720190e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 2)</name>
+      <scalar units="4.4%, min" peak="1">1.953282262e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 3)</name>
+      <scalar units="4.4%, min" peak="1">1.955206797e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 4)</name>
+      <scalar units="4.4%, min" peak="1">1.958200899e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 5)</name>
+      <scalar units="4.4%, min" peak="1">1.960102719e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 6)</name>
+      <scalar units="4.4%, min" peak="1">1.960265558e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 7)</name>
+      <scalar units="4.4%, min" peak="1">1.963192009e+000</scalar>
+    </result>
+    <result type="light scattering peak width at user-specified-height">
+      <name>Peak Width at User-Specified-Height (detector 8)</name>
+      <scalar units="4.4%, min" peak="1">1.962278539e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 1)</name>
+      <scalar peak="1">2.289140919e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 2)</name>
+      <scalar peak="1">2.387023029e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 3)</name>
+      <scalar peak="1">2.400627680e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 4)</name>
+      <scalar peak="1">2.402184104e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 5)</name>
+      <scalar peak="1">2.407207559e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 6)</name>
+      <scalar peak="1">2.408128583e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 7)</name>
+      <scalar peak="1">2.409570612e+000</scalar>
+    </result>
+    <result type="light scattering asymmetry factor">
+      <name>Asymmetry Factor (detector 8)</name>
+      <scalar peak="1">2.407094871e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 1)</name>
+      <scalar peak="1">1.790354997e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 2)</name>
+      <scalar peak="1">1.906167647e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 3)</name>
+      <scalar peak="1">1.924553232e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 4)</name>
+      <scalar peak="1">1.934206550e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 5)</name>
+      <scalar peak="1">1.941789694e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 6)</name>
+      <scalar peak="1">1.943081450e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 7)</name>
+      <scalar peak="1">1.943786344e+000</scalar>
+    </result>
+    <result type="light scattering tailing factor">
+      <name>Tailing Factor (detector 8)</name>
+      <scalar peak="1">1.941607590e+000</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 1)</name>
+      <scalar units="min" peak="1">2.267363260e+001</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 2)</name>
+      <scalar units="min" peak="1">2.267383406e+001</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 3)</name>
+      <scalar units="min" peak="1">2.267415860e+001</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 4)</name>
+      <scalar units="min" peak="1">2.267419562e+001</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 5)</name>
+      <scalar units="min" peak="1">2.267421254e+001</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 6)</name>
+      <scalar units="min" peak="1">2.267429179e+001</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 7)</name>
+      <scalar units="min" peak="1">2.267453983e+001</scalar>
+    </result>
+    <result type="light scattering mean">
+      <name>Mean (detector 8)</name>
+      <scalar units="min" peak="1">2.267451021e+001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 1)</name>
+      <scalar units="min" peak="1">1.243213885e-001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 2)</name>
+      <scalar units="min" peak="1">1.241372631e-001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 3)</name>
+      <scalar units="min" peak="1">1.240835917e-001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 4)</name>
+      <scalar units="min" peak="1">1.240470668e-001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 5)</name>
+      <scalar units="min" peak="1">1.240286371e-001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 6)</name>
+      <scalar units="min" peak="1">1.240134271e-001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 7)</name>
+      <scalar units="min" peak="1">1.239805248e-001</scalar>
+    </result>
+    <result type="light scattering standard deviation">
+      <name>Standard Deviation (detector 8)</name>
+      <scalar units="min" peak="1">1.239664662e-001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 1)</name>
+      <scalar peak="1">-2.662824528e+001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 2)</name>
+      <scalar peak="1">-1.703921860e+001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 3)</name>
+      <scalar peak="1">-1.529750455e+001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 4)</name>
+      <scalar peak="1">-1.535007710e+001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 5)</name>
+      <scalar peak="1">-1.464071017e+001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 6)</name>
+      <scalar peak="1">-1.440035831e+001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 7)</name>
+      <scalar peak="1">-1.466507661e+001</scalar>
+    </result>
+    <result type="light scattering skew">
+      <name>Skew (detector 8)</name>
+      <scalar peak="1">-1.470730419e+001</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 1)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 2)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 3)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 4)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 5)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 6)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 7)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="light scattering peak area">
+      <name>Peak Area % (detector 8)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Area (channel 1)</name>
+      <scalar units="AU min" peak="1">-4.310205697e-006</scalar>
+      <scalar units="V min" peak="1">-4.310205697e-006</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Area (channel 2)</name>
+      <scalar units="AU min" peak="1">0.000000000e+000</scalar>
+      <scalar units="V min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Area (channel 3)</name>
+      <scalar units="AU min" peak="1">0.000000000e+000</scalar>
+      <scalar units="V min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Height (channel 1)</name>
+      <scalar units="AU" peak="1">-5.094767296e-006</scalar>
+      <scalar units="V" peak="1">-5.094767296e-006</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Height (channel 2)</name>
+      <scalar units="AU" peak="1">0.000000000e+000</scalar>
+      <scalar units="V" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Height (channel 3)</name>
+      <scalar units="AU" peak="1">0.000000000e+000</scalar>
+      <scalar units="V" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Retention Time (channel 1)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Retention Time (channel 2)</name>
+      <scalar units="min" peak="1">2.287816553e+001</scalar>
+    </result>
+    <result type="UV">
+      <name>Retention Time (channel 3)</name>
+      <scalar units="min" peak="1">2.287816553e+001</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Half-Height (channel 1)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Half-Height (channel 2)</name>
+      <scalar units="min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Half-Height (channel 3)</name>
+      <scalar units="min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Quarter-Height (channel 1)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Quarter-Height (channel 2)</name>
+      <scalar units="min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Quarter-Height (channel 3)</name>
+      <scalar units="min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Tenth-Height (channel 1)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Tenth-Height (channel 2)</name>
+      <scalar units="min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at Tenth-Height (channel 3)</name>
+      <scalar units="min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at User-Specified-Height (channel 1)</name>
+      <scalar units="4.4%, min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at User-Specified-Height (channel 2)</name>
+      <scalar units="4.4%, min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Width at User-Specified-Height (channel 3)</name>
+      <scalar units="4.4%, min" peak="1">1.683455889e-002</scalar>
+    </result>
+    <result type="UV">
+      <name>Asymmetry Factor (channel 1)</name>
+      <scalar peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Asymmetry Factor (channel 2)</name>
+      <scalar peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Asymmetry Factor (channel 3)</name>
+      <scalar peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Tailing Factor (channel 1)</name>
+      <scalar peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Tailing Factor (channel 2)</name>
+      <scalar peak="1">5.000000000e-001</scalar>
+    </result>
+    <result type="UV">
+      <name>Tailing Factor (channel 3)</name>
+      <scalar peak="1">5.000000000e-001</scalar>
+    </result>
+    <result type="UV">
+      <name>Mean (channel 1)</name>
+      <scalar units="min" peak="1">2.266717988e+001</scalar>
+    </result>
+    <result type="UV">
+      <name>Mean (channel 2)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Mean (channel 3)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Standard Deviation (channel 1)</name>
+      <scalar units="min" peak="1">1.346395746e-001</scalar>
+    </result>
+    <result type="UV">
+      <name>Standard Deviation (channel 2)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Standard Deviation (channel 3)</name>
+      <scalar units="min" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Skew (channel 1)</name>
+      <scalar peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Skew (channel 2)</name>
+      <scalar peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Skew (channel 3)</name>
+      <scalar peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Area % (channel 1)</name>
+      <scalar units="%" peak="1">1.000000000e+002</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Area % (channel 2)</name>
+      <scalar units="%" peak="1">0.000000000e+000</scalar>
+    </result>
+    <result type="UV">
+      <name>Peak Area % (channel 3)</name>
+      <scalar units="%" peak="1">0.000000000e+000</scalar>
+    </result>
+  </results>
+  <signatures>
+    <qc_signoff/>
+  </signatures>
+</experiment>
