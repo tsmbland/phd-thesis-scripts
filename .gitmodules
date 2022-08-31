@@ -1,0 +1,6 @@
+[submodule "submodules/membranequant"]
+	path = submodules/membranequant
+	url = https://github.com/tsmbland/membranequant
+[submodule "submodules/polaritymodel"]
+	path = submodules/polaritymodel
+	url = https://github.com/tsmbland/polaritymodel
