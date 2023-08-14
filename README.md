@@ -9,4 +9,4 @@ Contains:
 - PNG files: individual image panels
 - Illustrator files: one for each thesis figure
 
-NB. Not intended to be directly run on anyone else's machine as you won't have access to the data and some of the links won't work, but may serve as a useful reference. That said, all the data is on CAMP so if you were desperate you could probably run everything without too much trouble
+NB. Not intended to be directly run on anyone else's machine as you won't have access to the data and some of the links won't work, but may serve as a useful reference.
