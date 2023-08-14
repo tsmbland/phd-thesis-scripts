@@ -1,6 +1,6 @@
-# Thesis scripts
+# PhD thesis scripts
 
-Scripts for performing the analysis and generating the figures in my thesis.
+Scripts for performing the analysis and generating the figures in my PhD thesis.
 
 Contains:
 - Submodules: core code for modelling and image analysis
