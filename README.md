@@ -5,7 +5,7 @@ Scripts for performing the analysis and generating the figures in my PhD thesis.
 Contains:
 - Submodules: core code for modelling and image analysis
 - Ipython notebooks: for running the analysis and generating figures
-- Shell scripts: for running some of the model parameter sweeps on CAMP
+- Shell scripts: for running some of the model parameter sweeps on the Crick compute cluster
 - PNG files: individual image panels
 - Illustrator files: one for each thesis figure
 
